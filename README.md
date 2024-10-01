@@ -7,3 +7,6 @@ casado=False #Boolean
 
 
 Evaluación: https://forms.gle/nbzERyWQ52vu2YUa8
+
+
+Repso Datos Primitivos: https://colab.research.google.com/drive/119JvNW2_xGLpDlxw2b6JvdxWkSlmxyGr?usp=sharing
