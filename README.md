@@ -17,3 +17,6 @@ Actividad 6/11:
 #dirección,
 #4- y actividadesFavoritas en una lista,
 #5- luego recorrer el diccionario con la estructura de control for
+
+
+Juegos: https://colab.research.google.com/drive/1q8dI18KviGiNmNRQ6u2cCyUXxxFOapl_?usp=sharing
