@@ -22,4 +22,4 @@ Actividad 6/11:
 Juegos: https://colab.research.google.com/drive/1q8dI18KviGiNmNRQ6u2cCyUXxxFOapl_?usp=sharing
 
 
-Recuperatorio 10 de diciembre https://forms.gle/Xw2ssbkMVQqSnKgg8
+Recuperatorio 10 de diciembre  https://docs.google.com/forms/d/e/1FAIpQLScWzKJ0S5jWoH1RgqtmBkX8dqd69yEafc_90FZdnmipbkLyGQ/viewform?usp=sharing
